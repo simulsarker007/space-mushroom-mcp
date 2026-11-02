@@ -5,6 +5,7 @@ A free, read-only [Model Context Protocol](https://modelcontextprotocol.io) serv
 - **Endpoint (Streamable HTTP):** `https://spacemushroom.com/mcp`
 - **No API key, no sign-in.** Read-only.
 - **Data:** about 600 material profiles (metals, polymers, ceramics, composites, semiconductors, thermal protection, shielding, regolith and more, with a focus on space materials), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Docs and setup page:** <https://spacemushroom.com/mcp-server/>
 - **Website:** <https://spacemushroom.com> · **Open dataset:** [Zenodo](https://zenodo.org/records/23718226), [Hugging Face](https://huggingface.co/datasets/Simul007/open-materials-database), [GitHub](https://github.com/simulsarker007/open-materials-database)
 
 ## Tools
